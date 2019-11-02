@@ -22,7 +22,7 @@
     "jsx-loader": "^0.13.2",
     "mysql2": "^1.6.5",
     "postcss-loader": "^3.0.0",
-    "sequelize": "^5.8.2",
+    "sequelize": "^5.15.1",
     "tedious": "^6.1.1",
     "webpack": "^4.31.0"
   },
