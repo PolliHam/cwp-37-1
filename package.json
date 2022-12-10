@@ -15,7 +15,7 @@
     "autoprefixer": "^9.5.1",
     "config": "^1.30.0",
     "csso-webpack-plugin": "^1.0.0-beta.12",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "gulp": "^4.0.2",
     "gulp-watch": "^5.0.1",
     "immutable": "^4.0.0-rc.12",
